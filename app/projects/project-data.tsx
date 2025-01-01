@@ -7,24 +7,24 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Project One",
-    year: 2023,
+    title: "SC PROJECT 1",
+    year: 2024,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
+      "SC BOT TELEGRAM DENGAN NODE.JS BOT MENU NYA ADALAH STORE KHUSUS ANAK JB.",
+    url: "https://whatsapp.com/channel/0029VazCs3v2Jl8Eyr1rSi0X",
   },
   {
-    title: "Project Two",
-    year: 2022,
+    title: "SC PROJECT 2",
+    year: 2024,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
+      "SC BOT TELEGRAM DENGAN NODE.JS BOT MENU NYA ADALAH PAYMENT OTOMATIS.",
+    url: "https://whatsapp.com/channel/0029VazCs3v2Jl8Eyr1rSi0X",
   },
   {
-    title: "Project Three",
-    year: 2021,
+    title: "SC PROJECT 3",
+    year: 2024,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
+      "SC BOT TELEGRAM DENGAN NODE.JS BOT MENU NYA ADALAH CAMPURAN.",
+    url: "https://whatsapp.com/channel/0029VazCs3v2Jl8Eyr1rSi0X",
   },
 ];
