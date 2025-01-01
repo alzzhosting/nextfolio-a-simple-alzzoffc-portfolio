@@ -28,7 +28,7 @@ export default function Page() {
           JIKA INGIN MEMBELI WEB, PANEL PTERODACTYL, VPS DIGITAL OCEAN, SEWA BOT, MC, DOMAIN, SUBDOMAIN{" "}
           <a
             target="_blank"
-            href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
+            href="https://github.com/alzzhosting/nextfolio-a-simple-alzzoffc-portfolio"
           >
             more
           </a>
@@ -43,13 +43,13 @@ export default function Page() {
         </p>
         <p>
           <a
-            href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F1msirius%2FNextfolio"
+            href="https://github.com/alzzhosting/nextfolio-a-simple-alzzoffc-portfolio"
             target="_blank"
           >
             Deploy
           </a>{" "}
           PORTOFOLIO BY ALZZOFFC{" "}
-          <a href="/blog/getting-started">Getting Started</a> post.
+          <a href="https://github.com/alzzhosting/nextfolio-a-simple-alzzoffc-portfolio">Getting Started</a> post.
         </p>
         <p>
           Built and maintained by{" "}
