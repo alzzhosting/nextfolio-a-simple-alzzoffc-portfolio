@@ -22,13 +22,10 @@ export default function Page() {
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          A clean, fast, and lightweight portfolio template built with Next.js,
-          Vercel, and Tailwind CSS for optimal performance.
+          WELCOME TO WEB PORTOFOLIO ALZZOFFC WEB INI MENGGUNAKAN HTML, CSS, JSS JIKA INGIN MEMBUAT WEB SILAHKAN KLIKBCA GAMBAR EMAIL
         </p>
         <p>
-          Nextfolio includes all the essentials for a stunning portfolio: SEO,
-          MDX support, RSS, Atom, & JSON feeds, analytics, tweet & YouTube
-          embeds, KaTeX integration, and{" "}
+          JIKA INGIN MEMBELI WEB, PANEL PTERODACTYL, VPS DIGITAL OCEAN, SEWA BOT, MC, DOMAIN, SUBDOMAIN{" "}
           <a
             target="_blank"
             href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
@@ -42,7 +39,7 @@ export default function Page() {
           <a href={socialLinks.github} target="_blank">
             open-source
           </a>{" "}
-          and fully customizable, making it easy to add more features.
+          HARGA VPS DIGITAL OCEAN MURAH POLL SKUY BUY SEKARANG MUMPUNG TAHUN BARU.
         </p>
         <p>
           <a
@@ -51,14 +48,13 @@ export default function Page() {
           >
             Deploy
           </a>{" "}
-          your Nextfolio site with Vercel in minutes and follow the set up
-          instructions in the{" "}
+          PORTOFOLIO BY ALZZOFFC{" "}
           <a href="/blog/getting-started">Getting Started</a> post.
         </p>
         <p>
           Built and maintained by{" "}
-          <a href="https://imsirius.xyz/" target="_blank">
-            Sirius
+          <a href="https://wa.me/6288215523477" target="_blank">
+            Alzzoffc
           </a>
           .
         </p>
